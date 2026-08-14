@@ -1,0 +1,2 @@
+this is a text file.
+i am trying to convert the content into uppercase and lowercase content.
