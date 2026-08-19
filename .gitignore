@@ -1,8 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode
 
-# Image
+# Image and Audio
 *.png
+*.jpg
+*.jpeg
+*.mp4
 
 # Datasets 
 *.csv
